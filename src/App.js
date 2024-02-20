@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+        Built by Travis Leithead
+        </p>
       </header>
     </div>
   );
